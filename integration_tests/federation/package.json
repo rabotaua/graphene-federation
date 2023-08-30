@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@apollo/gateway": "^0.8.1",
+    "@apollo/gateway": "^2.5.3",
     "apollo-server": "^2.8.1",
     "graphql": "^14.4.2"
   },
